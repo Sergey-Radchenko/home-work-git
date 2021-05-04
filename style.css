@@ -1,4 +1,8 @@
 h1{
     color: red;
-    font-size: 2rem;
+    font-size: 3rem;
+}
+p{
+    color: #000;
+    font-size: 1rem;
 }
